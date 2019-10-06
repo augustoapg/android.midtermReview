@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MidtermPractice</string>
+    <string name="lblTitle">MIDTERM PRACTICE</string>
+    <string name="btnViewAPI">View API</string>
+    <string name="btnClickImage">Click Image</string>
+    <string name="title_activity_api">Countries</string>
+    <string name="httphost">https://restcountries-v1.p.rapidapi.com/all</string>
+    <string name="api_key">2e191af4f0msh6569c541f4641f9p167628jsnf8895eaeab86</string>
+    <string name="title_activity_image">Image</string>
+    <string name="btnSelectImage">Select Image</string>
+</resources>
